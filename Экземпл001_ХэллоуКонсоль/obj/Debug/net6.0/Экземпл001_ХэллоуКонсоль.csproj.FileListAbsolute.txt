@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Downloads\Лекция языки 1\Экземпл001_ХэллоуКонсоль\bin\Debug\net6.0\Экземпл001_ХэллоуКонсоль.exe
+C:\Users\Пользователь\Downloads\Лекция языки 1\Экземпл001_ХэллоуКонсоль\bin\Debug\net6.0\Экземпл001_ХэллоуКонсоль.deps.json
+C:\Users\Пользователь\Downloads\Лекция языки 1\Экземпл001_ХэллоуКонсоль\bin\Debug\net6.0\Экземпл001_ХэллоуКонсоль.runtimeconfig.json
+C:\Users\Пользователь\Downloads\Лекция языки 1\Экземпл001_ХэллоуКонсоль\bin\Debug\net6.0\Экземпл001_ХэллоуКонсоль.dll
+C:\Users\Пользователь\Downloads\Лекция языки 1\Экземпл001_ХэллоуКонсоль\bin\Debug\net6.0\Экземпл001_ХэллоуКонсоль.pdb
+C:\Users\Пользователь\Downloads\Лекция языки 1\Экземпл001_ХэллоуКонсоль\obj\Debug\net6.0\Экземпл001_ХэллоуКонсоль.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Downloads\Лекция языки 1\Экземпл001_ХэллоуКонсоль\obj\Debug\net6.0\Экземпл001_ХэллоуКонсоль.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Downloads\Лекция языки 1\Экземпл001_ХэллоуКонсоль\obj\Debug\net6.0\Экземпл001_ХэллоуКонсоль.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Downloads\Лекция языки 1\Экземпл001_ХэллоуКонсоль\obj\Debug\net6.0\Экземпл001_ХэллоуКонсоль.AssemblyInfo.cs
+C:\Users\Пользователь\Downloads\Лекция языки 1\Экземпл001_ХэллоуКонсоль\obj\Debug\net6.0\Экземпл001_ХэллоуКонсоль.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Downloads\Лекция языки 1\Экземпл001_ХэллоуКонсоль\obj\Debug\net6.0\Экземпл001_ХэллоуКонсоль.dll
+C:\Users\Пользователь\Downloads\Лекция языки 1\Экземпл001_ХэллоуКонсоль\obj\Debug\net6.0\refint\Экземпл001_ХэллоуКонсоль.dll
+C:\Users\Пользователь\Downloads\Лекция языки 1\Экземпл001_ХэллоуКонсоль\obj\Debug\net6.0\Экземпл001_ХэллоуКонсоль.pdb
+C:\Users\Пользователь\Downloads\Лекция языки 1\Экземпл001_ХэллоуКонсоль\obj\Debug\net6.0\Экземпл001_ХэллоуКонсоль.genruntimeconfig.cache
+C:\Users\Пользователь\Downloads\Лекция языки 1\Экземпл001_ХэллоуКонсоль\obj\Debug\net6.0\ref\Экземпл001_ХэллоуКонсоль.dll
